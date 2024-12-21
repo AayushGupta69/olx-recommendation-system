@@ -1,0 +1,641 @@
+{
+  "Packs": [
+    {
+      "Limit": [
+        {
+          "Size": 1,
+          "Validity": "30 days",
+          "Scope": "All India",
+          "Current rate": 639,
+          "Current Prices": 639,
+          "Pack Value": 639,
+          "New Discount": 0
+        },
+        {
+          "Size": 5,
+          "Validity": "30 days",
+          "Scope": "All India",
+          "Current rate": 1399,
+          "Current Prices": 1399,
+          "Pack Value": 1399,
+          "New Discount": 0
+        },
+        {
+          "Size": 15,
+          "Validity": "30 days",
+          "Scope": "All India",
+          "Current rate": 2099,
+          "Current Prices": 2099,
+          "Pack Value": 2099,
+          "New Discount": 0
+        },
+        {
+          "Size": 25,
+          "Validity": "30 days",
+          "Scope": "All India",
+          "Current rate": 2899,
+          "Current Prices": 2899,
+          "Pack Value": 2899,
+          "New Discount": 0
+        },
+        {
+          "Size": 50,
+          "Validity": "30 days",
+          "Scope": "All India",
+          "Current rate": 4999,
+          "Current Prices": 4999,
+          "Pack Value": 4899,
+          "New Discount": -0.02
+        },
+        {
+          "Size": 100,
+          "Validity": "30 days",
+          "Scope": "All India",
+          "Current rate": 7499,
+          "Current Prices": 7499,
+          "Pack Value": 7399,
+          "New Discount": -0.01
+        },
+        {
+          "Size": 50,
+          "Validity": "60 days",
+          "Scope": "All India",
+          "Current rate": 5999,
+          "Current Prices": 5999,
+          "Pack Value": 5899,
+          "New Discount": -0.02
+        },
+        {
+          "Size": 100,
+          "Validity": "60 days",
+          "Scope": "All India",
+          "Current rate": 8499,
+          "Current Prices": 8499,
+          "Pack Value": 8399,
+          "New Discount": -0.01
+        },
+        {
+          "Size": 50,
+          "Validity": "90 days",
+          "Scope": "All India",
+          "Current rate": 6999,
+          "Current Prices": 6999,
+          "Pack Value": 6899,
+          "New Discount": -0.01
+        },
+        {
+          "Size": 100,
+          "Validity": "90 days",
+          "Scope": "All India",
+          "Current rate": 10999,
+          "Current Prices": 10999,
+          "Pack Value": 10399,
+          "New Discount": -0.05
+        },
+        {
+          "Size": 250,
+          "Validity": "90 days",
+          "Scope": "All India",
+          "Current rate": 14999,
+          "Current Prices": 14999,
+          "Pack Value": 14199,
+          "New Discount": -0.05
+        },
+        {
+          "Size": 500,
+          "Validity": "120 days",
+          "Scope": "All India",
+          "Current rate": 26999,
+          "Current Prices": 26999,
+          "Pack Value": 25599,
+          "New Discount": -0.1
+        },
+        {
+          "Size": 400,
+          "Validity": "180 days",
+          "Scope": "All India",
+          "Pack Value": 37399
+        },
+        {
+          "Size": 650,
+          "Validity": "180 days",
+          "Scope": "All India",
+          "Pack Value": 43699
+        },
+        {
+          "Size": 1000,
+          "Validity": "180 days",
+          "Scope": "All India",
+          "Current Prices": 31999,
+          "Pack Value": 26499,
+          "New Discount": -0.17
+        }
+      ]
+    },
+    {
+      "BTT": [
+        {
+          "Size": 1,
+          "Validity": "30 days",
+          "Scope": "All India",
+          "Current rate": 399,
+          "Current Prices": 399,
+          "Pack Value": 399,
+          "New Discount": 0
+        },
+        {
+          "Size": 10,
+          "Validity": "30 days",
+          "Scope": "All India",
+          "Current rate": 999,
+          "Current Prices": 999,
+          "Pack Value": 999,
+          "New Discount": 0
+        },
+        {
+          "Size": 15,
+          "Validity": "30 days",
+          "Scope": "All India",
+          "Current rate": 1499,
+          "Current Prices": 1499,
+          "Pack Value": 1499,
+          "New Discount": 0
+        },
+        {
+          "Size": 50,
+          "Validity": "30 days",
+          "Scope": "All India",
+          "Current rate": 2999,
+          "Current Prices": 2999,
+          "Pack Value": 2999,
+          "New Discount": 0
+        },
+        {
+          "Size": 100,
+          "Validity": "30 days",
+          "Scope": "All India",
+          "Current rate": 4349,
+          "Current Prices": 4349,
+          "Pack Value": 4349,
+          "New Discount": 0
+        },
+        {
+          "Size": 250,
+          "Validity": "90 days",
+          "Scope": "All India",
+          "Current rate": 9999,
+          "Current Prices": 9999,
+          "Pack Value": 9999,
+          "New Discount": 0
+        }
+      ]
+    },
+    {
+      "Power Listing (1D)": [
+        {
+          "Size": 50,
+          "Validity": "30 days",
+          "Scope": "All India",
+          "Current rate": 29999,
+          "Current Prices": 29999,
+          "Pack Value": 28399,
+          "New Discount": -0.05
+        },
+        {
+          "Size": 250,
+          "Validity": "30 days",
+          "Scope": "All India",
+          "Current rate": 79999,
+          "Current Prices": 79999,
+          "Pack Value": 63899,
+          "New Discount": -0.2
+        },
+        {
+          "Size": 50,
+          "Validity": "60 days",
+          "Scope": "All India",
+          "Current rate": 35000,
+          "Current Prices": 34999,
+          "Pack Value": 31399,
+          "New Discount": -0.1
+        },
+        {
+          "Size": 100,
+          "Validity": "60 days",
+          "Scope": "All India",
+          "Current rate": 54999,
+          "Current Prices": 54999,
+          "Pack Value": 43899,
+          "New Discount": -0.2
+        },
+        {
+          "Size": 50,
+          "Validity": "90 days",
+          "Scope": "All India",
+          "Current rate": 41000,
+          "Current Prices": 40999,
+          "Pack Value": 36799,
+          "New Discount": -0.1
+        },
+        {
+          "Size": 100,
+          "Validity": "90 days",
+          "Scope": "All India",
+          "Current rate": 66000,
+          "Current Prices": 65999,
+          "Pack Value": 52699,
+          "New Discount": -0.2
+        },
+        {
+          "Size": 150,
+          "Validity": "90 days",
+          "Scope": "All India",
+          "Current rate": 74999,
+          "Current Prices": 74999,
+          "Pack Value": 59899,
+          "New Discount": -0.2
+        },
+        {
+          "Size": 500,
+          "Validity": "180 days",
+          "Scope": "All India",
+          "Current Prices": 135999,
+          "Pack Value": 88299,
+          "New Discount": -0.35
+        },
+        {
+          "Size": 750,
+          "Validity": "180 days",
+          "Scope": "All India",
+          "Current Prices": 145999,
+          "Pack Value": 94799,
+          "New Discount": -0.35
+        },
+        {
+          "Size": 1000,
+          "Validity": "180 days",
+          "Scope": "All India",
+          "Current Prices": 155999,
+          "Pack Value": 101299,
+          "New Discount": -0.35
+        }
+      ]
+    },
+    {
+      "Power Listing (4D)": [
+        {
+          "Size": 50,
+          "Validity": "30 days",
+          "Scope": "All India",
+          "Current rate": 8999,
+          "Current Prices": 8999,
+          "Pack Value": 8899,
+          "New Discount": -0.01
+        },
+        {
+          "Size": 50,
+          "Validity": "60 days",
+          "Scope": "All India",
+          "Current rate": 10999,
+          "Current Prices": 10999,
+          "Pack Value": 10399,
+          "New Discount": -0.05
+        },
+        {
+          "Size": 100,
+          "Validity": "60 days",
+          "Scope": "All India",
+          "Current rate": 15999,
+          "Current Prices": 15999,
+          "Pack Value": 15099,
+          "New Discount": -0.06
+        },
+        {
+          "Size": 50,
+          "Validity": "90 days",
+          "Scope": "All India",
+          "Current rate": 11999,
+          "Current Prices": 11999,
+          "Pack Value": 11299,
+          "New Discount": -0.06
+        },
+        {
+          "Size": 100,
+          "Validity": "90 days",
+          "Scope": "All India",
+          "Current rate": 17999,
+          "Current Prices": 17999,
+          "Pack Value": 16999,
+          "New Discount": -0.06
+        },
+        {
+          "Size": 200,
+          "Validity": "90 days",
+          "Scope": "All India",
+          "Current rate": 28999,
+          "Current Prices": 28999,
+          "Pack Value": 27499,
+          "New Discount": -0.05
+        },
+        {
+          "Size": 350,
+          "Validity": "180 days",
+          "Scope": "All India",
+          "Current Prices": 41999,
+          "Pack Value": 37699,
+          "New Discount": -0.1
+        },
+        {
+          "Size": 500,
+          "Validity": "180 days",
+          "Scope": "All India",
+          "Current Prices": 56999,
+          "Pack Value": 43899,
+          "New Discount": -0.23
+        },
+        {
+          "Size": 750,
+          "Validity": "180 days",
+          "Scope": "All India",
+          "Current Prices": 75000,
+          "Pack Value": 57799,
+          "New Discount": -0.23
+        },
+        {
+          "Size": 1000,
+          "Validity": "180 days",
+          "Scope": "All India",
+          "Current Prices": 90000,
+          "Pack Value": 69299,
+          "New Discount": -0.23
+        }
+      ]
+    },
+    {
+      "Power Listing (7D)": [
+        {
+          "Size": 1,
+          "Validity": "30 days",
+          "Scope": "All India",
+          "Current rate": 1099,
+          "Current Prices": 1099,
+          "Pack Value": 1099,
+          "New Discount": 0
+        },
+        {
+          "Size": 5,
+          "Validity": "30 days",
+          "Scope": "All India",
+          "Current rate": 2999,
+          "Current Prices": 2999,
+          "Pack Value": 2999,
+          "New Discount": 0
+        },
+        {
+          "Size": 15,
+          "Validity": "30 days",
+          "Scope": "All India",
+          "Current rate": 4499,
+          "Current Prices": 4499,
+          "Pack Value": 4499,
+          "New Discount": 0
+        },
+        {
+          "Size": 25,
+          "Validity": "30 days",
+          "Scope": "All India",
+          "Current rate": 5999,
+          "Current Prices": 5999,
+          "Pack Value": 5999,
+          "New Discount": 0
+        },
+        {
+          "Size": 50,
+          "Validity": "30 days",
+          "Scope": "All India",
+          "Current rate": 7999,
+          "Current Prices": 7999,
+          "Pack Value": 7899,
+          "New Discount": -0.01
+        },
+        {
+          "Size": 50,
+          "Validity": "60 days",
+          "Scope": "All India",
+          "Current rate": 9499,
+          "Current Prices": 9499,
+          "Pack Value": 9399,
+          "New Discount": -0.01
+        },
+        {
+          "Size": 100,
+          "Validity": "60 days",
+          "Scope": "All India",
+          "Current rate": 12999,
+          "Current Prices": 12999,
+          "Pack Value": 12299,
+          "New Discount": -0.05
+        },
+        {
+          "Size": 50,
+          "Validity": "90 days",
+          "Scope": "All India",
+          "Current rate": 10999,
+          "Current Prices": 10999,
+          "Pack Value": 10399,
+          "New Discount": -0.05
+        },
+        {
+          "Size": 100,
+          "Validity": "90 days",
+          "Scope": "All India",
+          "Current rate": 14999,
+          "Current Prices": 14999,
+          "Pack Value": 14199,
+          "New Discount": -0.05
+        },
+        {
+          "Size": 200,
+          "Validity": "90 days",
+          "Scope": "All India",
+          "Current rate": 21999,
+          "Current Prices": 21999,
+          "Pack Value": 20799,
+          "New Discount": -0.05
+        },
+        {
+          "Size": 350,
+          "Validity": "90 days",
+          "Scope": "All India",
+          "Current rate": 35999,
+          "Current Prices": 35999,
+          "Pack Value": 32299,
+          "New Discount": -0.1
+        },
+        {
+          "Size": 750,
+          "Validity": "180 days",
+          "Scope": "All India",
+          "Current Prices": 44250,
+          "Pack Value": 36699,
+          "New Discount": -0.17
+        },
+        {
+          "Size": 1000,
+          "Validity": "180 days",
+          "Scope": "All India",
+          "Current Prices": 48000,
+          "Pack Value": 39799,
+          "New Discount": -0.17
+        }
+      ]
+    },
+    {
+      "FA 7 Days": [
+        {
+          "Size": 1,
+          "Validity": "30 days",
+          "Scope": "All India",
+          "Current rate": 549,
+          "Current Prices": 549,
+          "Pack Value": 549,
+          "New Discount": 0
+        },
+        {
+          "Size": 3,
+          "Validity": "30 days",
+          "Scope": "All India",
+          "Current rate": 1379,
+          "Current Prices": 1379,
+          "Pack Value": 1379,
+          "New Discount": 0
+        },
+        {
+          "Size": 6,
+          "Validity": "30 days",
+          "Scope": "All India",
+          "Current rate": 2199,
+          "Current Prices": 2199,
+          "Pack Value": 2199,
+          "New Discount": 0
+        },
+        {
+          "Size": 10,
+          "Validity": "30 days",
+          "Scope": "All India",
+          "Current rate": 2999,
+          "Current Prices": 2999,
+          "Pack Value": 2999,
+          "New Discount": 0
+        }
+      ]
+    },
+    {
+      "FA 30 Days": [
+        {
+          "Size": 1,
+          "Validity": "30 days",
+          "Scope": "All India",
+          "Current rate": 1099,
+          "Current Prices": 1099,
+          "Pack Value": 1099,
+          "New Discount": 0
+        },
+        {
+          "Size": 3,
+          "Validity": "30 days",
+          "Scope": "All India",
+          "Current rate": 2799,
+          "Current Prices": 2799,
+          "Pack Value": 2799,
+          "New Discount": 0
+        },
+        {
+          "Size": 6,
+          "Validity": "30 days",
+          "Scope": "All India",
+          "Current rate": 4499,
+          "Current Prices": 4499,
+          "Pack Value": 4499,
+          "New Discount": 0
+        },
+        {
+          "Size": 10,
+          "Validity": "30 days",
+          "Scope": "All India",
+          "Current rate": 6000,
+          "Current Prices": 5999,
+          "Pack Value": 5999,
+          "New Discount": 0
+        },
+        {
+          "Size": 50,
+          "Validity": "30 days",
+          "Scope": "All India",
+          "Current Prices": 20449,
+          "Pack Value": 19399,
+          "New Discount": -0.05
+        },
+        {
+          "Size": 25,
+          "Validity": "60 days",
+          "Scope": "All India",
+          "Current rate": 14999,
+          "Current Prices": 14999,
+          "Pack Value": 14999,
+          "New Discount": 0
+        },
+        {
+          "Size": 50,
+          "Validity": "60 days",
+          "Scope": "All India",
+          "Current Prices": 21999,
+          "Pack Value": 20799,
+          "New Discount": -0.05
+        },
+        {
+          "Size": 25,
+          "Validity": "90 days",
+          "Scope": "All India",
+          "Current Prices": 15499,
+          "Pack Value": 15499,
+          "New Discount": 0
+        },
+        {
+          "Size": 50,
+          "Validity": "90 days",
+          "Scope": "All India",
+          "Current rate": 23999,
+          "Current Prices": 23999,
+          "Pack Value": 22699,
+          "New Discount": -0.05
+        },
+        {
+          "Size": 100,
+          "Validity": "90 days",
+          "Scope": "All India",
+          "Current rate": 36999,
+          "Current Prices": 36999,
+          "Pack Value": 33199,
+          "New Discount": -0.1
+        },
+        {
+          "Size": 200,
+          "Validity": "180 days",
+          "Scope": "All India",
+          "Current Prices": 71999,
+          "Pack Value": 55399,
+          "New Discount": -0.23
+        },
+        {
+          "Size": 500,
+          "Validity": "180 days",
+          "Scope": "All India",
+          "Current Prices": 145000,
+          "Pack Value": 94199,
+          "New Discount": -0.35
+        }
+      ]
+    }
+  ]
+}
