@@ -1,0 +1,364 @@
+{
+  "Bulk Combos": [
+    {
+      "Mahacombo Limit": [
+        {
+          "#Packs": 3,
+          "Power Listing": null,
+          "Limit": 1000,
+          "BTT": null,
+          "FA30 days": null,
+          "Combo validity": "180 days",
+          "Old Base rate": 95997,
+          "Pack Value": 79497,
+          "Incl Add discount - Pack Value": 78699,
+          "Discount": -0.18
+        },
+        {
+          "#Packs": 5,
+          "Power Listing": null,
+          "Limit": 1000,
+          "BTT": null,
+          "FA30 days": null,
+          "Combo validity": "180 days",
+          "Old Base rate": 159995,
+          "Pack Value": 132495,
+          "Incl Add discount - Pack Value": 129799,
+          "Discount": -0.19
+        }
+      ]
+    },
+    {
+      "Mahacombo Power Listing (7D)": [
+        {
+          "#Packs": 3,
+          "Power Listing": 750,
+          "Limit": null,
+          "BTT": null,
+          "FA30 days": null,
+          "Combo validity": "180 days",
+          "Old Base rate": 132750,
+          "Pack Value": 110097,
+          "Incl Add discount - Pack Value": 107799,
+          "Discount": -0.19
+        },
+        {
+          "#Packs": 3,
+          "Power Listing": 1000,
+          "Limit": null,
+          "BTT": null,
+          "FA30 days": null,
+          "Combo validity": "180 days",
+          "Old Base rate": 144000,
+          "Pack Value": 119397,
+          "Incl Add discount - Pack Value": 116999,
+          "Discount": -0.19
+        },
+        {
+          "#Packs": 5,
+          "Power Listing": 750,
+          "Limit": null,
+          "BTT": null,
+          "FA30 days": null,
+          "Combo validity": "180 days",
+          "Old Base rate": 221250,
+          "Pack Value": 183495,
+          "Incl Add discount - Pack Value": 179799,
+          "Discount": -0.19
+        },
+        {
+          "#Packs": 5,
+          "Power Listing": 1000,
+          "Limit": null,
+          "BTT": null,
+          "FA30 days": null,
+          "Combo validity": "180 days",
+          "Old Base rate": 240000,
+          "Pack Value": 198995,
+          "Incl Add discount - Pack Value": 194999,
+          "Discount": -0.19
+        },
+        {
+          "#Packs": 10,
+          "Power Listing": 750,
+          "Limit": null,
+          "BTT": null,
+          "FA30 days": null,
+          "Combo validity": "180 days",
+          "Old Base rate": 442500,
+          "Pack Value": 366990,
+          "Incl Add discount - Pack Value": 352299,
+          "Discount": -0.2
+        },
+        {
+          "#Packs": 10,
+          "Power Listing": 1000,
+          "Limit": null,
+          "BTT": null,
+          "FA30 days": null,
+          "Combo validity": "180 days",
+          "Old Base rate": 480000,
+          "Pack Value": 397990,
+          "Incl Add discount - Pack Value": 381999,
+          "Discount": -0.2
+        }
+      ]
+    },
+    {
+      "Mahacombo Power Listing (4D)": [
+        {
+          "#Packs": 3,
+          "Power Listing": 500,
+          "Limit": null,
+          "BTT": null,
+          "FA30 days": null,
+          "Combo validity": "180 days",
+          "Old Base rate": 170997,
+          "Pack Value": 131697,
+          "Incl Add discount - Pack Value": 128999,
+          "Discount": -0.25
+        },
+        {
+          "#Packs": 3,
+          "Power Listing": 750,
+          "Limit": null,
+          "BTT": null,
+          "FA30 days": null,
+          "Combo validity": "180 days",
+          "Old Base rate": 225000,
+          "Pack Value": 173397,
+          "Incl Add discount - Pack Value": 169899,
+          "Discount": -0.24
+        },
+        {
+          "#Packs": 3,
+          "Power Listing": 1000,
+          "Limit": null,
+          "BTT": null,
+          "FA30 days": null,
+          "Combo validity": "180 days",
+          "Old Base rate": 270000,
+          "Pack Value": 207897,
+          "Incl Add discount - Pack Value": 201599,
+          "Discount": -0.25
+        },
+        {
+          "#Packs": 5,
+          "Power Listing": 750,
+          "Limit": null,
+          "BTT": null,
+          "FA30 days": null,
+          "Combo validity": "180 days",
+          "Old Base rate": 375000,
+          "Pack Value": 288995,
+          "Incl Add discount - Pack Value": 280299,
+          "Discount": -0.25
+        },
+        {
+          "#Packs": 5,
+          "Power Listing": 1000,
+          "Limit": null,
+          "BTT": null,
+          "FA30 days": null,
+          "Combo validity": "180 days",
+          "Old Base rate": 450000,
+          "Pack Value": 346495,
+          "Incl Add discount - Pack Value": 332599,
+          "Discount": -0.26
+        },
+        {
+          "#Packs": 10,
+          "Power Listing": 750,
+          "Limit": null,
+          "BTT": null,
+          "FA30 days": null,
+          "Combo validity": "180 days",
+          "Old Base rate": 750000,
+          "Pack Value": 577990,
+          "Incl Add discount - Pack Value": 543299,
+          "Discount": -0.28
+        },
+        {
+          "#Packs": 10,
+          "Power Listing": 1000,
+          "Limit": null,
+          "BTT": null,
+          "FA30 days": null,
+          "Combo validity": "180 days",
+          "Old Base rate": 900000,
+          "Pack Value": 692990,
+          "Incl Add discount - Pack Value": 651399,
+          "Discount": -0.28
+        }
+      ]
+    },
+    {
+      "Mahacombo Power Listing (1D)": [
+        {
+          "#Packs": 3,
+          "Power Listing": 500,
+          "Limit": null,
+          "BTT": null,
+          "FA30 days": null,
+          "Combo validity": "180 days",
+          "Old Base rate": 407997,
+          "Pack Value": 264897,
+          "Incl Add discount - Pack Value": 256899,
+          "Discount": -0.37
+        },
+        {
+          "#Packs": 3,
+          "Power Listing": 750,
+          "Limit": null,
+          "BTT": null,
+          "FA30 days": null,
+          "Combo validity": "180 days",
+          "Old Base rate": 437997,
+          "Pack Value": 284397,
+          "Incl Add discount - Pack Value": 275799,
+          "Discount": -0.37
+        },
+        {
+          "#Packs": 3,
+          "Power Listing": 1000,
+          "Limit": null,
+          "BTT": null,
+          "FA30 days": null,
+          "Combo validity": "180 days",
+          "Old Base rate": 467997,
+          "Pack Value": 303897,
+          "Incl Add discount - Pack Value": 291699,
+          "Discount": -0.38
+        }
+      ]
+    },
+    {
+      "Mahacombo Limit + FA 30 Days": [
+        {
+          "#Packs": 5,
+          "Power Listing": null,
+          "Limit": 100,
+          "BTT": null,
+          "FA30 days": 50,
+          "Combo validity": "90 days",
+          "Old Base rate": 174990,
+          "Pack Value": 144995,
+          "Incl Add discount - Pack Value": 141999,
+          "Discount": -0.19
+        },
+        {
+          "#Packs": 5,
+          "Power Listing": null,
+          "Limit": 250,
+          "BTT": null,
+          "FA30 days": 100,
+          "Combo validity": "90 days",
+          "Old Base rate": 259990,
+          "Pack Value": 199995,
+          "Incl Add discount - Pack Value": 195899,
+          "Discount": -0.25
+        },
+        {
+          "#Packs": 5,
+          "Power Listing": null,
+          "Limit": 50,
+          "BTT": null,
+          "FA30 days": 25,
+          "Combo validity": "90 days",
+          "Old Base rate": 112490,
+          "Pack Value": 100995,
+          "Incl Add discount - Pack Value": 98899,
+          "Discount": -0.12
+        },
+        {
+          "#Packs": 5,
+          "Power Listing": null,
+          "Limit": 50,
+          "BTT": null,
+          "FA30 days": 50,
+          "Combo validity": "90 days",
+          "Old Base rate": 154990,
+          "Pack Value": 128495,
+          "Incl Add discount - Pack Value": 125899,
+          "Discount": -0.19
+        },
+        {
+          "#Packs": 3,
+          "Power Listing": null,
+          "Limit": 50,
+          "BTT": null,
+          "FA30 days": 25,
+          "Combo validity": "90 days",
+          "Old Base rate": 67494,
+          "Pack Value": 60597,
+          "Incl Add discount - Pack Value": 59899,
+          "Discount": -0.11
+        },
+        {
+          "#Packs": 3,
+          "Power Listing": null,
+          "Limit": 50,
+          "BTT": null,
+          "FA30 days": 50,
+          "Combo validity": "90 days",
+          "Old Base rate": 92994,
+          "Pack Value": 77097,
+          "Incl Add discount - Pack Value": 76299,
+          "Discount": -0.18
+        }
+      ]
+    },
+    {
+      "Mahacombo Power Listing (7D) + Limit": [
+        {
+          "#Packs": 5,
+          "Power Listing": 750,
+          "Limit": 500,
+          "BTT": null,
+          "FA30 days": null,
+          "Combo validity": "180 days",
+          "Old Base rate": 316245,
+          "Pack Value": 243995,
+          "Incl Add discount - Pack Value": 236599,
+          "Discount": -0.25
+        },
+        {
+          "#Packs": 5,
+          "Power Listing": 1000,
+          "Limit": 500,
+          "BTT": null,
+          "FA30 days": null,
+          "Combo validity": "180 days",
+          "Old Base rate": 334995,
+          "Pack Value": 257995,
+          "Incl Add discount - Pack Value": 250199,
+          "Discount": -0.25
+        },
+        {
+          "#Packs": 3,
+          "Power Listing": 750,
+          "Limit": 500,
+          "BTT": null,
+          "FA30 days": null,
+          "Combo validity": "180 days",
+          "Old Base rate": 189747,
+          "Pack Value": 146397,
+          "Incl Add discount - Pack Value": 143399,
+          "Discount": -0.24
+        },
+        {
+          "#Packs": 3,
+          "Power Listing": 1000,
+          "Limit": 500,
+          "BTT": null,
+          "FA30 days": null,
+          "Combo validity": "180 days",
+          "Old Base rate": 200997,
+          "Pack Value": 154797,
+          "Incl Add discount - Pack Value": 151699,
+          "Discount": -0.25
+        }
+      ]
+    }
+  ]
+}
