@@ -53,8 +53,8 @@ pack_data = load_json(pack_file)
 
 # Inputs
 pack_name = "Limit + BTT"  # Example: Single ("Limit") or Combination ("Limit + BTT")
-budget = 15000  # Example budget
-budget_range = 2000  # Example range
+budget = 20000  # Example budget
+budget_range = 5000  # Example range
 
 # Filter and Display Results
 result = filter_packs(pack_data, pack_name, budget, budget_range)
